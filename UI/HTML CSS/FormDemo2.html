@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Registration Form</title>
+        <link rel="stylesheet" type="text/css" href="Mystyle.css" />
+    </head>
+    <body>
+        <form action="#" method="GET" >
+         <fieldset>
+            <legend> User Registration</legend>
+           <label for="name"> Enter the UserName </label><input type="text" name="name1" id="name1"/>
+        </br></br>
+          <label for="upassword"> Enter the email </label> <input type="email" name="email"/>
+       
+        </br></br>
+       
+        <label for="gender"> Enter the Gender </label> <input type="radio" name="gender"/>Male
+                                                         <input type="radio" name="gender"/>Female
+                                                        </br></br>
+        <label>  Hobbies : </label> <input type="checkbox">Reading Books
+                                    <input type="checkbox">Palying Baseball
+                                    <input type="checkbox">Palying Chess
+                                </br></br>
+                                <datalist id="stateList">
+                                    <option> Karnataka</option>
+                                            <option> West Bangal</option>
+                                            <option> Andra Pradesh</option>
+                                            <option> TamilNadu</option>
+                                            <option> Tiripura</option>
+                                            <option> Assam</option>
+                                </datalist>
+         <label>  Select the state</label> <input type="text" list="stateList">
+          <!-- <select>
+                                            <option> Karnataka</option>
+                                            <option> West Bangal</option>
+                                            <option> Andra Pradesh</option>
+                                            <option> TamilNadu</option>
+         </select> -->
+
+        </br></br>
+        <label>  Select the Courses </label> <select>
+            <optgroup label="Fullstack Developer">
+                <option>Angular</option>
+                <option>Javascript</option>
+                <option>React</option>
+                <option>Node js</option>
+            </optgroup>
+            <optgroup label="Database Developer">
+                <option>My SQL</option>
+                <option>MongoDB</option>
+                <option>Oracle</option>
+                <option>Ms SQL Server</option>
+            </optgroup>
+        </select>
+    </br></br>
+    <label> Enter the address</label>
+    <textarea cols="50"  rows="5"></textarea>
+</br></br>
+    <label>Enter the website URL: </label>
+    <input type="url">
+ 
+            <input type="submit" value="Login"/>
+        </form>
+        <form>
+        </fieldset> 
+
+       <fieldset>
+        <legend> example for Output tag</legend>
+        <label> File is  in Progress : </label><progress value="40" max="100">40%</progress>
+       
+       Range: <input type="range" id="a" value="40">+
+        Naumber :<input type="Number" id="b" value="70">=
+        <output name ="result" for="a b"> 560</output>
+        </fieldset>
+    </form>
+    </body>
+</html>

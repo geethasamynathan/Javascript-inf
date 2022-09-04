@@ -1,0 +1,43 @@
+1.What is HTML  and its use?
+
+2. Which tag you can use highlight the Text?
+
+3. Which tag can be used to out a horizontal line?
+
+4. Give an example for some self closing tag?
+
+5. Differentiate inline and internal stylsheet?
+
+6. What is CSS  and ites Type and preferences of CSS while you apply all types of Css for same Tag?
+
+7. How to place an image in web apge?
+
+8. What is Div tag?
+
+9. Write all tags used to create a Layout?
+
+10. How to identify the version of HTML ?
+
+11. What is the Use of meta tag?
+
+12. what is paading ?
+
+13. What is margin?
+
+14. How to set a background color for your web page  using CSS?
+
+15.How to set font color, style using CSS?
+
+16.write different types of selector using in CSS?
+
+17. which tag can be used for making a content or image in absolute height and width in web page?
+
+18. Types of Lists in HTML?
+
+19. How to create  a table in HTML and write all tags used to create a table and its usage?
+
+20. Apply the background color for alternative rows should have same back-ground color for a table.
+
+
+
+

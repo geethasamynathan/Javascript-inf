@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <script>
+       /* function Greet()
+        {
+            let name ='Geetha';
+            function displayName()
+            {
+                console.log("Hi "+name);
+            }
+           return displayName;
+        }
+      let g1=  Greet('Geetha');
+      console.log(g1);
+      g1();*/
+
+/*
+      function Calculate(x)
+      {
+        function Addition(y)
+        {
+            return x+y;
+        }
+        return Addition;
+      }
+      const add1=Calculate(100);
+      const add2=Calculate(200);
+      console.log(add1);
+      console.log(add1());
+
+      console.log(add1(115));
+      console.log(add2(355));
+*/
+let num=0;
+function Sum()
+{
+    function increaseSum()
+    {
+        return num =num+1;
+    }
+    return increaseSum;
+}
+
+const result=Sum();
+console.log(result());
+console.log(result());
+num= num+5;
+console.log(result());
+    </script>
+</html>

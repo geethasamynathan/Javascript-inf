@@ -1,0 +1,9 @@
+body{
+    background-color:burlywood;
+}
+
+input:focus{
+    background-color: yellow;
+    color: blue;
+    border: 5px solid green;
+}

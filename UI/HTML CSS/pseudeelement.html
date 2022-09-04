@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1::first-letter
+            {
+                color: red;
+                font-size: 3cm;
+                text-shadow: 5px 2px 9px green;
+            }
+            #div2 >  h1::first-line
+            {
+                color: maroon;
+                font-size: 1 cm;
+                text-shadow: 2px 4px 5px;
+            }
+            #div3 > h1::before
+            {
+                content: "Hello";
+                color: blue;
+            }
+            #div3 > h1::after
+            {
+                content: " Session";
+                color:chartreuse;
+            }
+            #div3 > h1::selection
+            {
+               color: blueviolet;
+            }
+           
+        </style>
+    </head>
+    <body>
+        <div >
+        <h1>  Welcome to Pseudo classess and elements in CSS3.</h1>
+        <p> example for ::first letter Pseudelement</p>
+    </div>
+    <div id="div2">
+        <h1>  Welcome to Pseudo classess and elements in CSS3.</h1>
+        <p> example for ::first line Pseudelement</p>
+    </div>
+    <div id="div3">
+        <h1>  Welcome to Pseudo classess and elements in CSS3.</h1>
+        <p> example for ::before Pseudelement</p>
+    </div>
+    </body>
+</html>

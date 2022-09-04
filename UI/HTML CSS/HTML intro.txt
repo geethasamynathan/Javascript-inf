@@ -1,0 +1,26 @@
+HTML ==> Hyper text Markup Language is used to create a web pages.
+
+website ==> collection of web pages are known as website.
+
+HTML ==> inasesensitive
+
+IDE ==> Notepad, Notepad++, Visual studio code, Atom, Sublime,...
+
+structure of The HTML
+<!doctype HTML>  ==> Html version 5
+ <html> ==> start element (ot) tag
+	<head>
+		<title>
+
+		
+		</title>
+		<meta charset="utf-8" /> ==> self closing Tag
+		<meta name="Job search"> </meta> 
+		<link>
+		<script>
+
+	</head>
+	<body>
+
+	</body>
+</html> ==> End Element or tag

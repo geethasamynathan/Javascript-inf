@@ -1,0 +1,29 @@
+Javascript Day1 Recap Questions:
+=====================================
+1.What is Javascript?
+
+2. Is it Sever side or client side scripting language?
+
+3.Datatypes in Javascript?
+
+4.Array in Javascript ?
+
+5.Different types of array declaration and adding an items into an array
+
+6.Listout all methods we seen using array with simple example?
+
+7.what is object is js?
+
+8.what is mean by callback?
+
+9. clousure in js ?
+
+10. Scope of the variable in Javascript? with an example
+
+11. what is promise?
+
+12. give an example for promise?
+
+13. what is resolve and reject?
+
+14. Why and  of Async and await in js?

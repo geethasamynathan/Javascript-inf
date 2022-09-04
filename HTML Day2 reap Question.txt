@@ -1,0 +1,34 @@
+1. What is  Form Tag?
+
+2. How to create Multiline textbox?
+
+3. How to create password field?
+
+4. Example to create a Dropdownlist and Sub tags of select tag?
+
+5. Which tag is used to give a border for Form?
+
+6. How to give the Title for Form?
+
+7. can we add audio or video  in our web page ? how give an example?
+
+8. How to create auto fill option in Dropdown list?
+
+9. While placing the cursor on the Label Your cursor point needs to focus corresponding control (textbox)?
+
+10.  how to redirect from one page to another while click the Submit button?
+
+11. Eample for clicking an image needs to redirect to some other webapage or website.
+
+12. how to give a caption for an image?
+
+13. can we implement audio and video in our web page?
+
+14. The tag which indicates the instance variable?
+
+15. pseudoclass and pseudoelements in CSS and Give an Exmaple
+
+
+
+
+

@@ -1,0 +1,14 @@
+Iterational structure - Exercise
+ProblemStatement:
+Write a JavaScript loop to print the below output:
+
+1
+
+1 2
+
+1 2 3
+
+1 2 3 4
+
+1 2 3 4 5
+

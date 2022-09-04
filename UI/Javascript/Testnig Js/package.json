@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "jasmine": "^4.4.0",
+    "jasmine-browser-runner": "^1.1.0",
+    "jasmine-core": "^4.4.0"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+}
